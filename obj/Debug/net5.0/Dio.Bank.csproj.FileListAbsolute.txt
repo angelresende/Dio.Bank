@@ -1,0 +1,16 @@
+C:\Users\angelica.araujo\Documents\LocalizaLabs_.NET_Developer\Dio.Bank\bin\Debug\net5.0\Dio.Bank.exe
+C:\Users\angelica.araujo\Documents\LocalizaLabs_.NET_Developer\Dio.Bank\bin\Debug\net5.0\Dio.Bank.deps.json
+C:\Users\angelica.araujo\Documents\LocalizaLabs_.NET_Developer\Dio.Bank\bin\Debug\net5.0\Dio.Bank.runtimeconfig.json
+C:\Users\angelica.araujo\Documents\LocalizaLabs_.NET_Developer\Dio.Bank\bin\Debug\net5.0\Dio.Bank.runtimeconfig.dev.json
+C:\Users\angelica.araujo\Documents\LocalizaLabs_.NET_Developer\Dio.Bank\bin\Debug\net5.0\Dio.Bank.dll
+C:\Users\angelica.araujo\Documents\LocalizaLabs_.NET_Developer\Dio.Bank\bin\Debug\net5.0\ref\Dio.Bank.dll
+C:\Users\angelica.araujo\Documents\LocalizaLabs_.NET_Developer\Dio.Bank\bin\Debug\net5.0\Dio.Bank.pdb
+C:\Users\angelica.araujo\Documents\LocalizaLabs_.NET_Developer\Dio.Bank\obj\Debug\net5.0\Dio.Bank.csprojAssemblyReference.cache
+C:\Users\angelica.araujo\Documents\LocalizaLabs_.NET_Developer\Dio.Bank\obj\Debug\net5.0\Dio.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angelica.araujo\Documents\LocalizaLabs_.NET_Developer\Dio.Bank\obj\Debug\net5.0\Dio.Bank.AssemblyInfoInputs.cache
+C:\Users\angelica.araujo\Documents\LocalizaLabs_.NET_Developer\Dio.Bank\obj\Debug\net5.0\Dio.Bank.AssemblyInfo.cs
+C:\Users\angelica.araujo\Documents\LocalizaLabs_.NET_Developer\Dio.Bank\obj\Debug\net5.0\Dio.Bank.csproj.CoreCompileInputs.cache
+C:\Users\angelica.araujo\Documents\LocalizaLabs_.NET_Developer\Dio.Bank\obj\Debug\net5.0\Dio.Bank.dll
+C:\Users\angelica.araujo\Documents\LocalizaLabs_.NET_Developer\Dio.Bank\obj\Debug\net5.0\ref\Dio.Bank.dll
+C:\Users\angelica.araujo\Documents\LocalizaLabs_.NET_Developer\Dio.Bank\obj\Debug\net5.0\Dio.Bank.pdb
+C:\Users\angelica.araujo\Documents\LocalizaLabs_.NET_Developer\Dio.Bank\obj\Debug\net5.0\Dio.Bank.genruntimeconfig.cache
