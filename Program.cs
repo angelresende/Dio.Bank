@@ -49,7 +49,7 @@ namespace Dio.Bank
         private static void Transferir()
         {
             Console.WriteLine("Digite o número da conta de origem: ");
-            int indiceContaOrirem = int.Parse(Console.ReadLine());
+            int indiceContaOrigem = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Digite o número da conta de destino: ");
             int indiceContaDestino = int.Parse(Console.ReadLine());
